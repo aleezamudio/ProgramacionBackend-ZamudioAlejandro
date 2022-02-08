@@ -1,0 +1,26 @@
+[
+  {
+    "title": "calculadora",
+    "price": 20,
+    "thumbmail": "https//",
+    "id": 1
+  },
+  {
+    "title": "lapices",
+    "price": 250,
+    "thumbmail": "https//",
+    "id": 2
+  },
+  {
+    "title": "lapiceras",
+    "price": 258,
+    "thumbmail": "https//",
+    "id": 3
+  },
+  {
+    "title": "borradores",
+    "price": 28,
+    "thumbmail": "https//",
+    "id": 4
+  }
+]
